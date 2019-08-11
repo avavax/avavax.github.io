@@ -1,0 +1,52 @@
+body {
+	  font-family: Georgia;
+		font-size: 16px;
+		margin: 0 auto;   /* center content */
+		max-width: 800px; /* limit width */
+		line-height: 1.5;
+		padding-top: 32px;
+		padding-bottom: 32px;
+}
+
+#header, #footer {
+	text-align: center;
+}
+#header {
+	margin-bottom: 32px;
+}
+.head__links a {
+	display: inline-block;
+	margin: 5px 0;
+}
+h1 {
+	margin: 0;
+	font-size: 36px;
+}
+h2 {
+	margin-top: 40px;
+	font-size: 32px;
+	margin-bottom: 5px;
+}
+h3 {
+	margin-top: 10px;
+	font-weight: 400;
+	font-size: 20px;
+	margin-bottom: 3px;
+}
+.main-text {
+	margin: 5px 0;
+}
+#footer {
+	margin-top: 64px;
+}
+.name {
+	font-weight: 700;
+	margin-bottom: 5px;
+	font-size: 16px;
+}
+.address {
+	font-size: 14px;
+}
+hr {
+	margin: 0;
+}
